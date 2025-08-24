@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hao's Homepage"
+title: "Jiahao's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am currently a Postdoctoral Researcher under joint supervision between the Institute of Automation, Chinese Academy of Sciences (CASIA) and Wenge AI Lab. I was affilated in State Key Laboratory of Multimodal Artificial Intelligence Systems. I received my PhD from CASIA in 2024 and my bachelor's degree from Southwest University in 2019.
 
-My research interests include
+My research interests include:
 - Alignment of LLM/VLM (RL, interpretablity)
 - Safety Assessment of LLM/VLM (Jailbreak, red-teaming)
 - Adversarial Robustness (mainly during my Phd period)
@@ -21,7 +21,7 @@ My research interests include
 * Aug. 2025: The helpful-only model released on [Hugging Face](https://huggingface.co/Jinx-org) has surpassed 35k downloads.  
 * July 2025: Awarded 2nd place in the ICML 2025 AI4MATH Challenge (Track 2: [SeePhys](https://www.codabench.org/competitions/7925/)). 
 
-<div style="padding: 15px; border: 1px solid #ddd; border-left-width: 5px; border-left-color: #428bca; background-color: #d1f4fdff; color: #333;">
+<div style="padding: 15px; border: 1px solid #ddd; border-left-width: 5px; border-left-color: #428bca; background-color: #d1f4fdff; color: #333;  margin-bottom: 8px;">
 I am continuously looking for <strong>self-motivated research interns</strong> (no prior LLM experience required); please send your CV to <a>andrew.jh.zhao[AT]gmail[DOT]com</a>.
 </div>
 
