@@ -49,12 +49,15 @@ I am continuously looking for <strong>self-motivated research interns</strong> (
 
 
 # Experience
+* Jan. 2025 – Present. Postdoc, CASIA & Wenge.
+  Mainly working on AI4S LLM/Agent development.
+
 * Nov. 2023 – Dec. 2024. Intern, Luminlp @ miHoYo Inc.
-Lived a happy time here. Got a bitter lesson as well.  
+  Lived a happy time here. Got a bitter lesson as well.  
   > 说到做到，有话直说，只认功劳，追求极致
 
 * June. 2023 – Sep. 2023. Intern, AI Lab @ Wenge.
-Witnessed the first wave of LLMs.
+  Witnessed the first wave of LLMs.
 
 # Awards
 
