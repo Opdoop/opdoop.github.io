@@ -18,11 +18,11 @@ My research interests include:
 
 
 # News
-* Aug. 2025: The helpful-only model released on [Hugging Face](https://huggingface.co/Jinx-org) has surpassed 35k downloads.  
+* Aug. 2025: The helpful-only model released on [Hugging Face](https://huggingface.co/Jinx-org) has surpassed 65k downloads.  
 * July 2025: Awarded 2nd place in the ICML 2025 AI4MATH Challenge (Track 2: [SeePhys](https://www.codabench.org/competitions/7925/)). 
 
 <div style="padding: 15px; border: 1px solid #ddd; border-left-width: 5px; border-left-color: #428bca; background-color: #d1f4fdff; color: #333;  margin-bottom: 8px;">
-I am continuously looking for <strong>self-motivated research interns</strong> (no prior LLM experience required); please send your CV to <a>andrew.jh.zhao[AT]gmail[DOT]com</a>.
+I am looking for <strong>self-motivated research interns</strong> (no prior LLM experience required); please send your CV to <a>andrew.jh.zhao[AT]gmail[DOT]com</a>.
 </div>
 
 # Publications
@@ -53,7 +53,7 @@ I am continuously looking for <strong>self-motivated research interns</strong> (
   Mainly working on AI4S LLM/Agent development.
 
 * Nov. 2023 – Dec. 2024. Intern, Luminlp @ miHoYo Inc.
-  Lived a happy time here. Got a bitter lesson as well.  
+  Lived a happy time here. Learned a bitter lesson as well
   > 说到做到，有话直说，只认功劳，追求极致
 
 * June. 2023 – Sep. 2023. Intern, AI Lab @ Wenge.
@@ -65,3 +65,4 @@ I am continuously looking for <strong>self-motivated research interns</strong> (
 * 2023: Outstanding Student Award, Institute of Automation, CASIA
 * 2019: Outstanding Graduate, Southwest University
 * 2018: National Scholarship, Ministry of Education
+
