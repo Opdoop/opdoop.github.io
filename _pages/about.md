@@ -21,10 +21,6 @@ My research interests include:
 * Aug. 2025: The helpful-only model released on [Hugging Face](https://huggingface.co/Jinx-org) got 65k downloads.  
 * July 2025: Awarded 2nd place in the ICML 2025 AI4MATH Challenge (Track 2: [SeePhys](https://www.codabench.org/competitions/7925/)). 
 
-<div style="padding: 15px; border: 1px solid #ddd; border-left-width: 5px; border-left-color: #428bca; background-color: #d1f4fdff; color: #333;  margin-bottom: 8px;">
-I am looking for <strong>self-motivated research interns</strong> (no prior LLM experience required); please send your CV to <a>andrew.jh.zhao[AT]gmail[DOT]com</a>.
-</div>
-
 # Publications
 
 * **Jiahao Zhao**, Liwei Dong. [Jinx: Unlimited LLMs for Probing Alignment Failures](https://arxiv.org/abs/2508.08243). *technical report*, 2025.
@@ -68,5 +64,6 @@ I am looking for <strong>self-motivated research interns</strong> (no prior LLM 
 * 2023: Outstanding Student Award, Institute of Automation, CASIA
 * 2019: Outstanding Graduate, Southwest University
 * 2018: National Scholarship, Ministry of Education
+
 
 
