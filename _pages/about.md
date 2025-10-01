@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a Postdoctoral Researcher under joint supervision between the Institute of Automation, Chinese Academy of Sciences (CASIA) and Wenge AI Lab. I was affilated in State Key Laboratory of Multimodal Artificial Intelligence Systems. I received my PhD from CASIA in 2024 and my bachelor's degree from Southwest University in 2019.
+Hi! I am currently a Postdoctoral Researcher jointly supervised by the Institute of Automation, Chinese Academy of Sciences (CASIA) and Wenge AI Lab. I am affiliated with the State Key Laboratory of Multimodal Artificial Intelligence Systems. I received my PhD from CASIA in 2024 and my bachelor's degree from Southwest University in 2019.
 
 My research interests include:
-- Alignment of LLM/VLM (RL, interpretablity)
+- Alignment of LLM/VLM (RL, interpretability)
 - Safety Assessment of LLM/VLM (Jailbreak, red-teaming)
 - Adversarial Robustness (mainly during my Phd period)
 
@@ -22,6 +22,8 @@ My research interests include:
 * July 2025: Awarded 2nd place in the ICML 2025 AI4MATH Challenge (Track 2: [SeePhys](https://www.codabench.org/competitions/7925/)). 
 
 # Publications
+
+* Zhaoyu Ma, Yuan Shan, **Jiahao Zhao**, Nan Xu, Lei Wang. [Meow: End-to-End Outline Writing for Automatic Academic Survey](https://arxiv.org/abs/2509.19370). *arxiv*, 2025.
 
 * **Jiahao Zhao**, Liwei Dong. [Jinx: Unlimited LLMs for Probing Alignment Failures](https://arxiv.org/abs/2508.08243). *technical report*, 2025.
 
@@ -64,6 +66,7 @@ My research interests include:
 * 2023: Outstanding Student Award, Institute of Automation, CASIA
 * 2019: Outstanding Graduate, Southwest University
 * 2018: National Scholarship, Ministry of Education
+
 
 
 
