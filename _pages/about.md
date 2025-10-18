@@ -18,6 +18,7 @@ My research interests include:
 
 
 # News
+* Oct. 2025: Serving as an Area Chair for ACL Rolling Review (ARR).
 * Aug. 2025: The helpful-only model released on [Hugging Face](https://huggingface.co/Jinx-org) got 65k downloads.  
 * July 2025: Awarded 2nd place in the ICML 2025 AI4MATH Challenge (Track 2: [SeePhys](https://www.codabench.org/competitions/7925/)). 
 
@@ -66,6 +67,7 @@ My research interests include:
 * 2023: Outstanding Student Award, Institute of Automation, CASIA
 * 2019: Outstanding Graduate, Southwest University
 * 2018: National Scholarship, Ministry of Education
+
 
 
 
